@@ -1,5 +1,5 @@
 # Live Todo List
-<img src="/images/todolist.png" alt="My cool logo"/>
+![]("src/images/todolist.png")
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
