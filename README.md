@@ -1,4 +1,4 @@
-# Live Todo List using React-Hooks
+# Live Todo List using React Hooks
 ![TodoList](https://github.com/Ridgal/TODOLIST/blob/master/src/images/todolist.png)
 Getting Started with Create React App
 
